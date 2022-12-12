@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670874192 source:c:\users\defne\c derslerİ\taş kağıt makas oyunu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
